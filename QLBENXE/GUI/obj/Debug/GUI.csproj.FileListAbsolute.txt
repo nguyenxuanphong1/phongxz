@@ -1,0 +1,92 @@
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\bin\Debug\GUI.exe.config
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\bin\Debug\GUI.exe
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\bin\Debug\GUI.pdb
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.exe
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.pdb
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\bin\Debug\BUS.exe
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\bin\Debug\DAL.exe
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\bin\Debug\BUS.pdb
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\bin\Debug\BUS.exe.config
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\bin\Debug\DAL.pdb
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\bin\Debug\DAL.exe.config
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Dang_Nhap.resources
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Dang_Ky.resources
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Quen_Mat_Khau.resources
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Trang_Chu_Nguoi_Dung.resources
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Dang_Ky_Thong_Tin_Nguoi_Dung.resources
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Quan_Ly.resources
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Quan_Ly_Tai_Khoan.resources
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Quan_Ly_Ve.resources
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.Quan_Ly_Xe.resources
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Quan_Ly_Nguoi_Dung.resources
+C:\Users\Administrator\Downloads\QLBENXE\GUI\bin\Debug\GUI.exe.config
+C:\Users\Administrator\Downloads\QLBENXE\GUI\bin\Debug\GUI.exe
+C:\Users\Administrator\Downloads\QLBENXE\GUI\bin\Debug\GUI.pdb
+C:\Users\Administrator\Downloads\QLBENXE\GUI\bin\Debug\BUS.exe
+C:\Users\Administrator\Downloads\QLBENXE\GUI\bin\Debug\DAL.exe
+C:\Users\Administrator\Downloads\QLBENXE\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Downloads\QLBENXE\GUI\bin\Debug\BUS.pdb
+C:\Users\Administrator\Downloads\QLBENXE\GUI\bin\Debug\BUS.exe.config
+C:\Users\Administrator\Downloads\QLBENXE\GUI\bin\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\QLBENXE\GUI\bin\Debug\DAL.exe.config
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Dang_Ky.resources
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Dang_Ky_Thong_Tin_Nguoi_Dung.resources
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Dang_Nhap.resources
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Quan_Ly.resources
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Quan_Ly_Nguoi_Dung.resources
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Quan_Ly_Tai_Khoan.resources
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Quan_Ly_Ve.resources
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Quen_Mat_Khau.resources
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Trang_Chu_Nguoi_Dung.resources
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.exe
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.pdb
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Nguoi_Dung_Xem_Thong_Tin_Xe.resources
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Quan_Ly_Xe.resources
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Thong_Tin_Nguoi_Dung.resources
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Nguoi_Dung_Mua_Ve.resources
+C:\Users\Administrator\Downloads\QLBENXE\GUI\obj\Debug\GUI.Form_Gio_Hang.resources
+F:\desktop\QLBENXE\GUI\bin\Debug\GUI.exe.config
+F:\desktop\QLBENXE\GUI\bin\Debug\GUI.exe
+F:\desktop\QLBENXE\GUI\bin\Debug\GUI.pdb
+F:\desktop\QLBENXE\GUI\bin\Debug\BUS.exe
+F:\desktop\QLBENXE\GUI\bin\Debug\DAL.exe
+F:\desktop\QLBENXE\GUI\bin\Debug\Guna.UI2.dll
+F:\desktop\QLBENXE\GUI\bin\Debug\BUS.pdb
+F:\desktop\QLBENXE\GUI\bin\Debug\BUS.exe.config
+F:\desktop\QLBENXE\GUI\bin\Debug\DAL.pdb
+F:\desktop\QLBENXE\GUI\bin\Debug\DAL.exe.config
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.Form_Dang_Ky.resources
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.Form_Dang_Ky_Thong_Tin_Nguoi_Dung.resources
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.Form_Dang_Nhap.resources
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.Form_Gio_Hang.resources
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.Form_Nguoi_Dung_Mua_Ve.resources
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.Form_Nguoi_Dung_Xem_Thong_Tin_Xe.resources
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.Form_Quan_Ly.resources
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.Form_Quan_Ly_Nguoi_Dung.resources
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.Form_Quan_Ly_Tai_Khoan.resources
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.Form_Quan_Ly_Ve.resources
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.Form_Quen_Mat_Khau.resources
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.Form_Thong_Tin_Nguoi_Dung.resources
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.Form_Trang_Chu_Nguoi_Dung.resources
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.Form_Quan_Ly_Xe.resources
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.csproj.CopyComplete
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.exe
+F:\desktop\QLBENXE\GUI\obj\Debug\GUI.pdb

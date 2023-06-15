@@ -1,0 +1,42 @@
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\BUS\bin\Debug\BUS.exe.config
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\BUS\bin\Debug\BUS.exe
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\BUS\bin\Debug\BUS.pdb
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\BUS\bin\Debug\DAL.exe
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\BUS\bin\Debug\DAL.pdb
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\BUS\bin\Debug\DAL.exe.config
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\BUS\obj\Debug\BUS.csproj.SuggestedBindingRedirects.cache
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\BUS\obj\Debug\BUS.exe
+C:\Users\MT XUAN SANG\Downloads\QLBENXE\BUS\obj\Debug\BUS.pdb
+C:\Users\Administrator\Downloads\QLBENXE\BUS\bin\Debug\BUS.exe.config
+C:\Users\Administrator\Downloads\QLBENXE\BUS\bin\Debug\BUS.exe
+C:\Users\Administrator\Downloads\QLBENXE\BUS\bin\Debug\BUS.pdb
+C:\Users\Administrator\Downloads\QLBENXE\BUS\bin\Debug\DAL.exe
+C:\Users\Administrator\Downloads\QLBENXE\BUS\bin\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\QLBENXE\BUS\bin\Debug\DAL.exe.config
+C:\Users\Administrator\Downloads\QLBENXE\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\QLBENXE\BUS\obj\Debug\BUS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\QLBENXE\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\Administrator\Downloads\QLBENXE\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\QLBENXE\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\QLBENXE\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Administrator\Downloads\QLBENXE\BUS\obj\Debug\BUS.exe
+C:\Users\Administrator\Downloads\QLBENXE\BUS\obj\Debug\BUS.pdb
+F:\desktop\QLBENXE\BUS\bin\Debug\BUS.exe.config
+F:\desktop\QLBENXE\BUS\bin\Debug\BUS.exe
+F:\desktop\QLBENXE\BUS\bin\Debug\BUS.pdb
+F:\desktop\QLBENXE\BUS\bin\Debug\DAL.exe
+F:\desktop\QLBENXE\BUS\bin\Debug\DAL.pdb
+F:\desktop\QLBENXE\BUS\bin\Debug\DAL.exe.config
+F:\desktop\QLBENXE\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+F:\desktop\QLBENXE\BUS\obj\Debug\BUS.csproj.SuggestedBindingRedirects.cache
+F:\desktop\QLBENXE\BUS\obj\Debug\BUS.Properties.Resources.resources
+F:\desktop\QLBENXE\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+F:\desktop\QLBENXE\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\desktop\QLBENXE\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\desktop\QLBENXE\BUS\obj\Debug\BUS.exe
+F:\desktop\QLBENXE\BUS\obj\Debug\BUS.pdb
